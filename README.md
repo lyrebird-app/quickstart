@@ -7,7 +7,7 @@ A new localized Flutter project with Lyrebird installed.
 This is a basic Flutter project, similar to what is generated from `flutter create`,
 but with Lyrebird pre-installed and configured to quickly get started with a localized app.
 
-Run `flutter pub run lyrebird ./lib/l10n` to run Lyrebird.
+Run `flutter pub run lyrebird` to run Lyrebird.
 
 Use `flutter gen-l10n` to generate Dart code from your `.ARB` localization files.
 
